@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Microservices,Containers w/ Docker, Kubernetes & OpenShift**
 
-- 💬 Ask me about **Angular, NodeJs, TypeScript, MEAN**
+- 💬 Ask me about **Angular, NodeJs, TypeScript, MEAN STACK**
 
 - ⚡ Fun fact **I Love Math :)**
 
