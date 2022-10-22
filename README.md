@@ -1,7 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Yassin</h1>
-<h3 align="center">A passionate developer from Morocco 
-<img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f2-1f1e6.png" height=50 width=50 style="margin-top:5px" /></h3>
+
+<h3 align="center">A passionate developer from Morocco <img align="center" src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f2-1f1e6.png" height=50 width=50 style="margin-top:5px" /> </h3>
+
+
 <img align="right" width="250px" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 
 - 🔭 I’m currently working on **<a href='https://github.com/Yassin-Zaher/Kanban'>KanBan</a>**
