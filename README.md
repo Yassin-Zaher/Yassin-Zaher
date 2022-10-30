@@ -5,13 +5,13 @@
 
 <img align="right" width="250px" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 
-- 🔭 I’m currently working on **<a href='https://github.com/Yassin-Zaher/Kanban'>KanBan</a>**
+- 🔭 I’m currently working on **<a href='https://github.com/Yassin-Zaher/ZETSU'>ZTSU-SHARE</a>**
 
 - 🌱 I’m currently learning **Microservices,Containers w/ Docker, Kubernetes & OpenShift**
 
 - 💬 Ask me about **Angular, NodeJs, TypeScript, MEAN STACK**
 
-- ⚡ Fun fact **I Love Math :)**
+- ⚡ looking forward to collaborate on open source WEB/AI/DATA based projects 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
